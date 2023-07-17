@@ -1,6 +1,6 @@
 # javascript:-
 This is whole javascript playist or code  from Begginer to advanced level of concept. It was a long journey to understand the concept of javascript but because of some gap but now I have completed it.
-JavaScript is a scripting language used to enhance and logic-enhance on web servers.
+JavaScript is a scripting language are using enhance my knowlede in the field of web developer and  help me to logic-enhance on web servers.
 The current JavaScript ecosystem has many libraries and frameworks, established programming practices, and substantial usage of JavaScript outside of web browsers. Plus, with the rise of single-page applications and other JavaScript-heavy websites
 
 # JavaScript engine:-
