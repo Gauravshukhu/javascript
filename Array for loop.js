@@ -11,6 +11,6 @@ let name=" 1,2,3,"
 console.log(arr)
 
 //for ....of important one
-for(let i of name){
-  console.log(i)
+for(let a of name){
+  console.log(a)
 }
