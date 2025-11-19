@@ -11,4 +11,4 @@ document.body.style.background="yellow"
 document.body.style.border=" 4rem black"
 
 //bom 
-location.href="https://filpkart.com"
+location.href="https:://filpkart.com"
