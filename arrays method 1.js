@@ -44,7 +44,7 @@
 // let num1=[ 45,356,45,789,099,4670]
 // let num2=[456,678,5676,879,3435]
 // num1.sort(compare)
-// num2.sort(compare)
+num2.sort(compare)
 // console.log(num1)
 // console.log(num2)
 // num1.reverse()
