@@ -11,7 +11,7 @@ async function gaurav(){
 		},4000)
 	})
 
-	console.log("Fetching Delhi weather Please wait.... ")
+	console.log("Fetching Delhi weather Please wait..... ")
 	let delhiW =await delhiweather
 	console.log("Fetching Delhi weather :"  + delhiW)
 
